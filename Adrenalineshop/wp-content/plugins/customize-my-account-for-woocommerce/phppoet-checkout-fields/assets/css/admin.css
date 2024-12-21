@@ -1,0 +1,575 @@
+.form-table th {
+  width:auto;
+  padding: 0 0 0 0;
+}
+.form-table td {
+  font-size: 11px;
+}
+.form-table tbody {
+  cursor: default;
+}
+
+button.btn.button-primary.add-action-button {
+    margin-top: 20px;
+}
+
+.form-table .tableheading {
+ float:left;
+ font-size:24px;
+}
+
+.syscmafwpl_additional_fees .form-table td {
+    padding: 06px !important;
+}
+.form-table td {
+
+  padding: 0 0 0 0;
+}
+
+.syscmafwpl_additional_buttons {
+    margin-top: -30px;
+}
+
+span.glyphicon.glyphicon-trash.syscmafwpl-remove-rule {
+    color: #ff6409;
+    font-size: 16px;
+}
+
+table.form-table > tbody > tr > td > table.syscmafwpl-fees-table > tr > td {
+  padding: auto;
+}
+
+.noticerow {
+  display:none;
+}
+.bs-example{
+  margin: 100px 50px;
+}
+.accordionheading {
+ font-weight:bold;
+}
+
+
+.syscmafwpl-sortable-list {
+  cursor:move;
+}
+
+
+
+.settings_label {
+ font-size: 14px;
+ 
+}
+.glyphicon-remove-circle {
+ cursor:default;
+ font-size: 15px;
+ 
+}
+
+.glyphicon-edit {
+  cursor:default;
+  font-size: 15px;
+  
+}
+
+.heading-table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+.buttondiv {
+ width:85%;
+ margin-top:10px;
+ margin-bottom:30px;
+}
+
+.additional-buttondiv {
+  width:70%;
+  margin-top:10px;
+  margin-bottom:30px;
+}
+
+.pcmfe-required {
+  color: red;
+  font-weight: 700;
+  border: 0;
+}
+
+
+.syscmafwpl_field_key {
+  cursor:copy;
+}
+
+
+
+.add-condition-button {
+  margin-top:10px !important;
+}
+
+.conditional-row{
+  margin-bottom:5px;
+}
+
+#responsediv {
+  display:none; font-size:20px; background-color:#ffffe0; border-color: #e6db55;  border-width: 1px; border-style: solid; width :auto; height:30px;
+}
+
+#add-billing-field,#add-shipping-field,#add-additional-field {
+  float: left;
+}
+#restore-billing-fields,#restore-shipping-fields {
+  float: right;
+  margin-right: 10px;
+}
+
+#syscmafwpl_frontend_link {
+  float: right;
+  margin-right: 20px;
+}
+.syscmafwpl-sortable-list input[type="checkbox"],.syscmafwpl_extra_settings input[type="checkbox"] {
+  width: 17px;
+  height: 17px;
+}
+.syscmafwpl-sortable-list input[type="checkbox"]:checked::before,.syscmafwpl_extra_settings input[type="checkbox"]:checked::before {
+  width: 18px;
+  height: 18px;
+}
+
+.syscmafwpl_extra_settings #syscmafwpl_frontend_link {
+  margin-top: -36px;
+}
+.syscmafwpl-sortable-list span.syscmafwpl_field_key,.syscmafwpl_extra_settings span.syscmafwpl_field_key{
+  color: #FFFFFF !important;
+  background-color: #985434 !important;
+  padding: 5px;
+}
+.syscmafwpl_copy_key_icon {
+  font-size: 16px;
+}
+.syscmafwpl_edit_icon {
+  top: 5px !important;
+  left: 10px;
+  font-size: 18px;
+}
+
+.syscmafwpl_disabled {
+    cursor: default;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    opacity: .3;
+}
+
+span.glyphicon.glyphicon-trash.syscmafwpl_trash_icon {
+    font-size: 19px;
+    top: 5px;
+    color: #81080a;
+}
+span.dashicons.dashicons-insert.add_rule_icon {
+    margin-top: 5px;
+}
+
+button.btn.button-primary.add-fees-button {
+    margin-top: 20px;
+}
+ul.rules_explain_ul {
+  list-style-type: square;
+  font-size: 16px;
+  font-style: italic;
+}
+
+p.sysbasics_licensing_span {
+    font-style: italic;
+    padding-top: 20px;
+    font-size: 12px !important;
+}
+
+a.sysbasics-token-page,a.sysbasics-license-doc {
+    margin-top: 5px;
+}
+
+table.widefat.sysbasics-license-table {
+    margin-top: 5px;
+}
+
+button.btn.btn-success.syscmafwpl_activate_license {
+    display: none;
+}
+
+table.widefat.sysbasics-license-table td {
+    padding: 10px;
+}
+input.checkout_field_conditional_equalto {
+    margin-left: 2px;
+    min-width: 202px;
+}
+span.syscmafwpl_ucfirst_class {
+    font-style: italic;
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+}
+span.syscmafwplformfield.syscmafwplformfield_equal_to {
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+tr.conditional-row input[type="number"] {
+    max-width: 70px;
+}
+
+.conditional-row input.checkout_field_conditional_equalto {
+    max-width: 100px;
+    min-width: 100px !important;
+}
+
+input.checkout_field_conditional_custom_label {
+    max-width: 100px;
+}
+li#toplevel_page_sysbasics ul > li a {
+    font-size: 10px !important;
+}
+.syscmafwpl_notice_div {
+    width: 100%;
+}
+
+.syscmafwpl_notice_div_lowerbutton {
+    margin-top: 20px;
+}
+
+.syscmafwpl_notice_div {
+    padding: 10px;
+    border: 1px dotted black;
+    border-radius: 10px;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+div.syscmafwpl_list_item input {
+    max-width: 300px !important;
+    width:300px;
+}
+div.syscmafwpl_list_item input.checkout_field_conditional_equalto {
+    max-width: 100px !important;
+}
+
+button.btn.button-primary.add-condition-button {
+    font-weight: bold;
+    color: white;
+    background-color: #1e7a36;
+    float: right;
+    margin-right: 100px;
+    max-width: 200px;
+    width: 150px !important;
+}
+
+span.syscmafwpl-dashicons.dashicons.dashicons-insert {
+    margin-top: 4px;
+    font-size: 18px;
+    margin-right: 4px;
+}
+
+a.btn.syscmafwpl_docs_buton.btn-success {
+    float: right;
+}
+
+
+a.btn.syscmafwpl_support_buton.btn-warning {
+    float: right;
+    margin-right: 5px;
+}
+span.syscmafwpl_docs_icon.dashicons.dashicons-admin-generic {
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+button.btn.button-primary.add-option-button {
+    float: right;
+}
+
+table.table.syscmafwpl_sortable_table_options,table.table.syscmafwpl_sortable_table_buttons,table.table.syscmafwpl_sortable_table_heading {
+    width: 100% !important;
+    min-width: 100%;
+}
+
+table.widefat.syscmafwpl_options_table td {
+    padding: 10px !important;
+}
+table.widefat.syscmafwpl_options_table {
+    margin-bottom: 10px;
+}
+div#sysbasics_get_validation_tkn {
+    margin-top: 20px;
+}
+p.sysbasics_purchased_through {
+    font-size: 19px !important;
+    margin-bottom: 20px !important;
+    margin-left: 10px;
+}
+span.dashicons.dashicons-admin-page.syscmafwpl_duplicate_field {
+    /* float: left; */
+    margin-left: 18px;
+    margin-top: 5px;
+}
+
+table.syscmafwpl-fees-table tr.conditional-row td {
+    min-height: 40px !important;
+    padding: 20px !important;
+    border-radius: 2;
+}
+
+table.widefat.syscmafwpl-fees-table {
+    border: 0px dotted #dbd7d7;
+    border-radius: 20px;
+    background-color: #e7e7e7;
+}
+
+table.widefat.syscmafwpl-fees-table select {
+    min-width: 100px;
+}
+
+a.btn.btn-primary.syscmafwpl_new_select {
+    float: right;
+}
+
+a.syscmafwpl-field-type,a.syscmafwpl-field-type-new {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-size: 10px;
+    /* top: 20px; */
+    height: 80px;
+    width: 80px;
+    padding: 40px;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    min-width: 120px !important;
+    min-height: 120px !important;
+    display: inline-block;
+    background-color: #F9FAFB;
+}
+a.syscmafwpl-field-type:hover,a.syscmafwpl-field-type:focus {
+    text-decoration: none !important;
+}
+
+a.syscmafwpl-field-type-new:hover,a.syscmafwpl-field-type-new:focus {
+    text-decoration: none !important;
+}
+div#syscmafwpl_example_modal {
+    margin-top: 20px;
+}
+
+.select2-selection__rendered {
+    line-height: 31px !important;
+}
+.select2-container .select2-selection--single {
+    height: 35px !important;
+}
+.select2-selection__arrow {
+    height: 35px !important;
+}
+
+i.syscmafwpl_fa_icon {
+        width: 50px;
+    margin-left: 5px;
+    margin-top: -10px;
+    height: 50px;
+    font-size: 35px;
+}
+
+span.syscmafwpl_field_type_label {
+    font-size: 14px;
+    font-style: italic;
+
+}
+
+a.syscmafwpl-field-type.datetimerangepicker span.syscmafwpl_field_type_label {
+    font-size: 12px;
+    margin-left: -15px !important;
+}
+
+
+
+a.syscmafwpl-field-type-new.datetimerangepicker span.syscmafwpl_field_type_label {
+    font-size: 12px;
+    margin-left: -15px !important;
+}
+
+.syscmafwpl-field-types-tab {
+    padding: 10px;
+    padding-left: 20px;
+    /* margin-right: 10px; */
+}
+
+input.syscmafwpl_hidden_radio_input {
+    display: none;
+}
+
+select.checkout_field_type {
+    min-width: 300px;
+    min-height: 35px;
+}
+
+div#syscmafwpl_example_modal2 {
+    margin-top: 20px;
+}
+
+button.btn.btn-primary.wcmamtx_new_end_point {
+    float: right;
+}
+
+input#sdfsd-user_meta_key {
+    max-width: 90%;
+    margin-left: 20px;
+}
+
+#syscmafwpl_example_modal2 .modal-content {
+    min-width: 860px !important;
+}
+
+#syscmafwpl_example_modal2 .modal-content {
+    min-width: 860px !important;
+}
+
+input#sdfsd-user_meta_key {
+    width: 95%;
+    max-width: 95%;
+    margin-left: 20px;
+}
+
+button#wcmamtx_add_field,button#wcmamtx_add_field2 {
+    float: left;
+}
+
+span.syscmafwpl_developer_doc_text {
+    font-style: italic;
+    font-size: 12px;
+    margin-left: 70px;
+    /* float: right; */
+}
+
+div#syscmafwpl_example_modal3 {
+    margin-top: 60px;
+}
+
+div#syscmafwpl_example_modal3 select {
+    float: right;
+    min-width:400px;
+}
+
+button.btn.button-primary.button-add_rule {
+    margin-top: 20px;
+}
+
+a.syscmafwpl-field-type-new.syscmafwpl_active {
+    border: 2px solid #337ab7;
+}
+
+button.btn.button-primary.add-rule-button {
+    background-color: green;
+    min-width: 150px;
+    margin-right: 100px;
+    float: right;
+    font-weight: bold;
+}
+
+span.dashicons.dashicons-remove.syscmafwpl-remove-condition-dynamic {
+    margin-top: 5px;
+}
+
+span.syscmafwpl_sortable_tr_handle_dynamic.dashicons.dashicons-menu {
+    margin-right: 10px;
+    margin-top: 5px;
+    font-size: 25px;
+}
+
+.select2-result-sub > li.select2-result {
+    display: none;
+}
+input.syscmafwpl_default_date_input {
+    max-width: 50px !important;
+    width: 50px !important;
+}
+
+.conditional-row select .checkout_field_conditional_showhide{
+    min-width: 100px;
+   
+}
+
+span.syscmafwpl_remove_icon.dashicons.dashicons-remove {
+    margin-left: 30px;
+}
+
+.conditional-row {
+    border: 1px dotted #d2cfcf;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+select.checkout_field_width {
+    min-width: 300px;
+    min-height: 35px;
+}
+
+select.checkout_field_visibility {
+    min-width: 300px;
+    min-height: 35px;
+}
+
+select.dynamic_visibility_criteria_select {
+    margin-top: 10px;
+    min-width: 300px;
+    min-height: 35px;
+}
+
+select.syscmafwpl_default_option_select {
+    min-width: 300px;
+    min-height: 35px;
+}
+
+span.dashicons.dashicons-remove.syscmafwpl-remove-condition {
+    margin-top: 5px;
+}
+
+.select2-container--default .select2-selection--multiple {
+    padding-bottom: 0px !important;
+}
+
+#syscmafwpl_example_modal .modal-content {
+    min-width: 860px !important;
+}
+
+.show_if_contains_rule select[style*="display:none;"] + .select2 { display:none; }
+
+.alert.alert-primary {
+    background-color: #dedefa;
+    color: #000000;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+}
+.sdfsd_body_footer_div {
+    margin-top: 20px;
+    padding: 17px;
+}
+
+span.dashicons.dashicons-remove.syscmafwpl-remove-condition-dynamic {
+    float: right;
+}
+input.rule_enabled_checkbox {
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+span.syscmafwpl_field_label_fields {
+    margin-bottom: -15px !important;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+input.rule_enabled_checkbox {
+    display: none;
+}

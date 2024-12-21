@@ -1,0 +1,44 @@
+.month-wrapper {
+    width: 400px !important;
+}
+
+table.month1 th {
+	border: 0px solid #767676;
+}
+
+table.month2 th {
+	border: 0px solid #767676;
+}
+
+
+table.month1 td {
+	border: 0px solid #767676;
+}
+
+table.month2 td {
+	border: 0px solid #767676;
+}
+
+.woocommerce form .form-row .input-checkbox {
+	margin:0px 0px 0px 0px !important;
+	position:relative ;
+}
+
+select.syscmafwpl-singleselect {
+    min-height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.month-element {
+    font-size: 10px;
+}
+
+tr.week-name th {
+    font-size: 10px;
+}
+
+.date-picker-wrapper .drp_top-bar .apply-btn {
+    top: -2px !important;
+
+}

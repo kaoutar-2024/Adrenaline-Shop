@@ -1,0 +1,8 @@
+.syscmafwpl_file { border: 1px solid #ddd; padding: 10px; width: 100%; line-height: 30px; font-size: 13px; }
+.syscmafwpl_filelist img{
+    border: 1px dotted #e6cccc !important;
+    padding: 10px !important;
+    margin-top: 20px !important;
+    max-height: 200px !important;
+    max-width: 200px !important;
+}

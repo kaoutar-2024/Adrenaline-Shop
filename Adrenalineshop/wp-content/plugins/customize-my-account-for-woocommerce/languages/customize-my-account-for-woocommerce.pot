@@ -1,0 +1,1606 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SysBasics Customize My Account for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-02 05:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: customize-my-account-for-woocommerce"
+
+#: templates/myaccount/dashboard.php:98
+msgid ""
+"\">Endpoints tab</a>, open dashboard endpoint settings to configure.This "
+"text is visible to admins only, once you save your endpoints it will be gone."
+msgstr ""
+
+#: phppoet-checkout-fields/include/templates/form-edit-account.php:29
+msgid ""
+"\">My Account Fields</a> tab.This notice is visible to Administrator only."
+msgstr ""
+
+#. 1: credit card type 2: last 4 digits
+#: elementor-addon/widgets/templates/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#: elementor-addon/widgets/templates/orders.php:61
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Field name.
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:154
+#, php-format
+msgid "%s is a required field."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:174
+msgid "30 minutes"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:170
+msgid "60 minutes"
+msgstr ""
+
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:113
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1386
+msgid "</a>"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: templates/myaccount/navigation.php:191
+#: templates/myaccount/navigation.php:433
+#, php-format
+msgid "<a href=\"%1$s\">Log out</a>"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:99
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:2309
+msgid "Activate License"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:828
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:906
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:947
+#: elementor-addon/widgets/templates/my-address.php:63
+#: include/admin/forms/options_form.php:262
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:719
+msgid "Add"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_additional_fields_form.php:45
+msgid "Add Account Field"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:85
+msgid "Add certain fee for each product"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:924
+msgid "Add New Field"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:974
+msgid "Add New Rule"
+msgstr ""
+
+#: include/admin/forms/options_form.php:370
+msgid "Add new template"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1507
+msgid "Add Option"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:73
+msgid "Add or Deduct Fixed Amount or Fixed Percentage"
+msgstr ""
+
+#: elementor-addon/widgets/form-add-payment-method.php:9
+msgid "Add Payment Method"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-add-payment-method.php:54
+#: elementor-addon/widgets/templates/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:707
+msgid "Additional field "
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:621
+msgid "Additional Fields"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:704
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1141
+msgid "additional_field_"
+msgstr ""
+
+#: phppoet-checkout-fields/include/add_order_meta_fields_class.php:53
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1001
+msgid "Address"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1005
+msgid "Address 2"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:315
+msgid "Albanian (Shqip)"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:167
+msgid "Allowed file types"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1314
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:154
+msgid "Allowed Times"
+msgstr ""
+
+#: include/admin/forms/options_form.php:50
+#: include/admin/forms/wizard_form.php:51
+msgid "Alternatively you can enable it from "
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:666
+msgid "Always Visibile"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:861
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:952
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:717
+msgid "Amount"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:915
+msgid "Amount equal to price of "
+msgstr ""
+
+#: include/admin/forms/options_form.php:50
+#: include/admin/forms/wizard_form.php:51
+msgid "Appearance/Menu"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:198
+msgid "Arabic"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:701
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:41
+msgid ""
+"Are you sure you want to restore to default settings.You can not undo this."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:201
+msgid "Azerbaijanian (Azeri)"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-address.php:20
+#: elementor-addon/widgets/templates/my-address.php:26
+#: elementor-addon/widgets/templates/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:705
+msgid "Billing field "
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:446
+msgid "Billing Fields"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:702
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1131
+msgid "billing_field_"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1220
+msgid "Browse Fields"
+msgstr ""
+
+#: elementor-addon/widgets/templates/orders.php:100
+msgid "Browse products"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:204
+msgid "Bulgarian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1629
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1648
+msgid "by"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:426
+msgid "Cart"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:508
+msgid "Cart item count"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:638
+msgid "Cart item quantity - Categories"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:631
+msgid "Cart item quantity - Products"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:438
+msgid "Cart Items"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:548
+msgid "Cart items - Categories"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:540
+msgid "Cart items - Products"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:501
+msgid "Cart total quantity"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:515
+msgid "Cart total weight"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:207
+msgid "Català"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:100
+msgid "Change default Endpoint"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:710
+msgid "Checkbox"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1355
+msgid "Checked by default"
+msgstr ""
+
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:997
+msgid "Choose an Option"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:252
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:390
+msgid "Choose Categories"
+msgstr ""
+
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:682
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1536
+msgid "Choose Default Option"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1641
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1649
+msgid "Choose Payment Gateway"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:918
+msgid "Choose Product"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:239
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:386
+msgid "Choose Products"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:264
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:419
+msgid "Choose Roles"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1622
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1630
+msgid "Choose Shipping Method"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1167
+msgid "Clone this field"
+msgstr ""
+
+#: include/admin/forms/options_form.php:261
+#: include/admin/forms/options_form.php:369
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:875
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:920
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:970
+msgid "Close"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:92
+#: include/wcmamtx_frontend_customizer.php:99
+#: include/wcmamtx_frontend_customizer.php:107
+msgid "Color"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:308
+msgid "Contains All"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:301
+msgid "Contains Any"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:729
+msgid "Copy"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1197
+msgid "Copy to clipboard"
+msgstr ""
+
+#: include/admin/forms/options_form.php:215
+#: include/admin/forms/options_form.php:315
+msgid "Create new template"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:51
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:728
+msgid "Custom Label"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:465
+msgid "Customer"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:27
+msgid "Customize My Account"
+msgstr ""
+
+#. Description of the plugin
+msgid "Customize My account page. Add/Edit/Remove Endpoints."
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:154
+msgid "Customize your My Account Page."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:216
+msgid "Dansk"
+msgstr ""
+
+#: elementor-addon/widgets/dashboard.php:9
+msgid "Dashboard"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:63
+#: include/admin/forms/wizard_form.php:65
+msgid "Dashboard Links"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1372
+msgid "Dashboard notice"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1394
+msgid "Dashboard Notice Text"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:390
+msgid "Date and Time picker Week Starts On"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:375
+msgid "Date Range Picker Separater Text"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:352
+msgid "Date Range Picker Week Starts On"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:183
+msgid "Date Time Picker Language"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:760
+msgid "DatePicker"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:120
+msgid "Datepicker disable days"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:89
+msgid "Datepicker format"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:781
+msgid "DateRange"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:774
+msgid "DateTime"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:788
+msgid "DateTimeRange"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1279
+msgid "Days"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:100
+msgid "dd MM yyyy (01 january 2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:97
+msgid "dd-mm-yyyy (01-01-2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:94
+msgid "dd/mm/yyyy (01/01/2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:909
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:720
+msgid "Deduct"
+msgstr ""
+
+#: include/admin/forms/options_form.php:204
+#: include/admin/forms/options_form.php:304
+msgid "Default"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:31
+msgid "Default avatar size"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1272
+msgid "Default Date"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:87
+#: include/admin/forms/wizard_form.php:89
+msgid "Default Endpoint"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1526
+msgid "Default Option"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1285
+msgid "Default Time"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1257
+msgid "Default Value"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:50
+msgid "Disable Display Name Field"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:60
+msgid "Disable Email Address Field"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:70
+msgid "Disable First Name Field"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:80
+msgid "Disable Last Name Field"
+msgstr ""
+
+#: include/admin/forms/options_form.php:124
+msgid "Disable navigation template override"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:40
+msgid "Disable Password Change"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1298
+msgid "Disable Specific Dates"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:37
+msgid "Display name"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:70
+#: include/admin/forms/wizard_form.php:98
+msgid ""
+"Display your Endpounts as nicely looking links on dashboard page.If your "
+"theme already have this feature , keep this feature disabled"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:23
+msgid "Do not Allow user to upload avatar"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:15
+msgid "Do not display avatar"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:269
+msgid "Docs"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:322
+msgid "Does not contains all"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:315
+msgid "Does not Contains Any"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:285
+msgid "Dutch"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1611
+msgid "Dynamic Visibility Off"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1611
+msgid "Dynamic Visibility On"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1662
+msgid "Dynamic Visibility Rules"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:672
+msgid "Dynamically Visibile"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:187
+msgid "Each Menu Background"
+msgstr ""
+
+#: elementor-addon/widgets/templates/my-address.php:63
+msgid "Edit"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:749
+msgid "Edit Account Fields"
+msgstr ""
+
+#: elementor-addon/widgets/form-edit-account.php:9
+msgid "Edit Account Form"
+msgstr ""
+
+#: elementor-addon/widgets/form-edit-address.php:9
+msgid "Edit address Form"
+msgstr ""
+
+#: include/admin/forms/options_form.php:229
+#: include/admin/forms/options_form.php:324
+msgid "Edit this template"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:231
+msgid "Eesti"
+msgstr ""
+
+#: include/admin/forms/options_form.php:139
+msgid "Elementor Widgets"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:734
+msgid "Email"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1692
+msgid "email"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:43
+#: elementor-addon/widgets/templates/form-login.php:86
+msgid "Email address"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:72
+msgid "Enable Dashboard links"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:54
+msgid "Enable Menu widget"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:195
+msgid "English"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:225
+msgid "English (British)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:711
+msgid "Enter Class"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1306
+msgid ""
+"Enter comma separated list of dates in d.m.Y format only you want to disable "
+"like 01.01.2024,02.01.2024,03.01.2024,04.01.2024 "
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:906
+msgid "Enter Label"
+msgstr ""
+
+#: include/admin/forms/options_form.php:257
+#: include/admin/forms/options_form.php:258
+#: include/admin/forms/options_form.php:365
+#: include/admin/forms/options_form.php:366
+msgid "Enter label"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:710
+msgid "Enter Option"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1331
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:158
+msgid ""
+"Enter values separated by comma(,) for example 11:00,11:30,12:00 Leave blank "
+"to show all."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:234
+msgid "Euskara"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1423
+msgid "Extra Class"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1675
+msgid "Field Conditional Rules"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1183
+msgid "Field Key"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:727
+msgid "Field key successfully copied to clipboard."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1204
+msgid "Field Type"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:95
+msgid "File type allowed"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:14
+msgid "File Upload"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:240
+msgid "Finnish (Suomi)"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:27
+msgid "First name"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:868
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:724
+msgid "Fixed Amount"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:117
+msgid "Font Size"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:956
+msgid "For each product in cart"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1292
+msgid "Format 24 hour"
+msgstr ""
+
+#: include/wcmamtx_extra_functions.php:772
+msgid ""
+"Free version of plugin only supports 2 endpoint and 2 groups.Pro Version "
+"supports unlimited number of endpoints and groups."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:243
+msgid "French"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:141
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:417
+msgid "Friday"
+msgstr ""
+
+#. 1: Orders URL 2: Address URL 3: Account URL.
+#: templates/myaccount/dashboard.php:64
+#: elementor-addon/widgets/templates/dashboard.php:45
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
+"href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#. 1: Orders URL 2: Addresses URL 3: Account URL.
+#: templates/myaccount/dashboard.php:67
+#: elementor-addon/widgets/templates/dashboard.php:48
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:246
+msgid "Galego"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:219
+msgid "German"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:79
+msgid "Give Discount equal to price of product"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:373
+msgid "Greater Than"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:380
+msgid "Greater than or equalto"
+msgstr ""
+
+#: elementor-addon/widgets/templates/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: include/admin/forms/options_form.php:56
+msgid "Header Menu Location"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:728
+msgid "Heading"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:249
+msgid "Hebrew (עברית)"
+msgstr ""
+
+#. 1: user display name 2: logout url
+#: templates/myaccount/dashboard.php:45
+#: elementor-addon/widgets/templates/dashboard.php:35
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:795
+msgid "Hidden"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:824
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:721
+msgid "Hide"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1627
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1646
+msgid "hide"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:41
+msgid "Hide username, login text after avatar"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:22
+msgid ""
+"Hide/show core endpoints , Rename/Reorder them easily, Add icons to "
+"endpoints and many more features."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:252
+msgid "Hrvatski"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://sysbasics.com"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:255
+msgid "Hungarian"
+msgstr ""
+
+#: include/admin/forms/order_form.php:103
+#: include/admin/forms/settings_form.php:106
+msgid "Icon Picker"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1376
+msgid "if set yes customer will see notice on dashboard unless they enter it"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:722
+msgid "If value of"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:258
+msgid "Indonesian"
+msgstr ""
+
+#: include/admin/forms/options_form.php:351
+msgid "Install Elementor Free Plugin"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:726
+msgid "Is Checked"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:723
+msgid "is equal to"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:261
+msgid "Italian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:264
+msgid "Japanese"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:270
+msgid "Korean"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:267
+msgid "Korean (한국어)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1231
+msgid "Label"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:31
+msgid "Last name"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:276
+msgid "Latvian (Latviešu)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:366
+msgid "Less than"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:273
+msgid "Lithuanian (lietuvių)"
+msgstr ""
+
+#: include/wcmamtx_extra_functions.php:33
+#: include/wcmamtx_extra_functions.php:179
+#: include/frontend/frontend_functions.php:178
+#: include/admin/forms/options_form.php:93
+msgid "Log In"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:54
+msgid "Log in"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: elementor-addon/widgets/form-login.php:9
+msgid "Login Form"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:279
+msgid "Macedonian (Македонски)"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:13
+#: include/admin/forms/wizard_form.php:15
+#: include/admin/forms/wizard_form.php:24
+msgid "Manage Endpoints"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1342
+msgid "Max Characters Allowed"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:156
+msgid "Max file size allowed"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:93
+msgid "Maximum size allowed for this upload is "
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:161
+msgid "MB"
+msgstr ""
+
+#: include/admin/forms/options_form.php:113
+msgid "Menu position"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:110
+msgid "MM dd yyyy (january 01 2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:107
+msgid "mm-dd-yyyy (01-01-2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:104
+msgid "mm/dd/yyyy (01/01/2020)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:128
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:367
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:405
+msgid "Monday"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:282
+msgid "Mongolian (Монгол)"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:121
+msgid ""
+"must be activated before activating Customize My Account For WooCommerce "
+msgstr ""
+
+#: include/wcmamtx_extra_functions.php:51
+#: include/wcmamtx_extra_functions.php:160 include/admin/menuitem.php:11
+#: include/admin/forms/options_form.php:80
+msgid "My Account"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:152
+msgid "My Account Customizer"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:824
+msgid "My Account Fields"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:39
+msgid "My Account Navigation Widget"
+msgstr ""
+
+#: elementor-addon/widgets/my-address.php:9
+msgid "My Address"
+msgstr ""
+
+#: elementor-addon/widgets/my-orders.php:9
+msgid "My Orders"
+msgstr ""
+
+#: elementor-addon/widgets/navigation.php:9
+msgid "Navigation"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:163
+msgid "Navigation Background"
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:41
+msgid "Navigation Widget"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:55
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-add-payment-method.php:60
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: elementor-addon/widgets/templates/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:18
+#: include/admin/forms/avatar_form.php:26
+#: include/admin/forms/avatar_form.php:44
+#: include/admin/forms/options_form.php:48
+#: include/admin/forms/options_form.php:104
+#: include/admin/forms/options_form.php:127
+#: include/admin/forms/options_form.php:171
+#: include/admin/forms/options_form.php:185
+#: include/admin/forms/options_form.php:245
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1357
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1367
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1374
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1407
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:43
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:53
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:63
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:73
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:83
+msgid "No"
+msgstr ""
+
+#: elementor-addon/widgets/templates/orders.php:101
+msgid "No order has been made yet."
+msgstr ""
+
+#: elementor-addon/widgets/templates/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:288
+msgid "Norwegian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:740
+msgid "Number"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1437
+msgid "Options"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:607
+msgid "Order Count"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1239
+msgid "Order notes"
+msgstr ""
+
+#: elementor-addon/widgets/orders.php:9
+msgid "Orders"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:133
+msgid "Padding From Left"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:746
+msgid "Paragraph"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:753
+#: elementor-addon/widgets/templates/form-login.php:43
+#: elementor-addon/widgets/templates/form-login.php:93
+msgid "Password"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:48
+msgid "Password change"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:840
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:457
+msgid "Payment Gateway"
+msgstr ""
+
+#: elementor-addon/widgets/payment-methods.php:9
+msgid "Payment Methods"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:872
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:725
+msgid "Percentage"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:237
+msgid "Persian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1693
+msgid "phone"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1417
+msgid "Placeholder "
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:291
+msgid "Polish"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:294
+msgid "Portuguese"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:297
+msgid "Português(Brasil)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1691
+msgid "postcode"
+msgstr ""
+
+#: phppoet-checkout-fields/include/add_order_meta_fields_class.php:73
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1020
+msgid "Postcode / Zip"
+msgstr ""
+
+#: elementor-addon/widgets/templates/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: include/wcmamtx_extra_functions.php:737
+#: include/wcmamtx_extra_functions.php:779
+msgid "Pro Version Demo"
+msgstr ""
+
+#: include/wcmamtx_extra_functions.php:742
+#: include/wcmamtx_extra_functions.php:784
+msgid "Pro Version Page"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:722
+msgid "Radio"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:70
+#: elementor-addon/widgets/templates/form-login.php:107
+#: elementor-addon/widgets/templates/form-login.php:107
+msgid "Register"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:51
+msgid "Remember me"
+msgstr ""
+
+#: include/admin/forms/options_form.php:242
+msgid "Replace endpoint content with Elementor Template"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1365
+msgid "Required"
+msgstr ""
+
+#: phppoet-checkout-fields/easy-checkout-file-upload/easy-checkout-file-upload.php:30
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:766
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:802
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:835
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:872
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:911
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:984
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1038
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1104
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1164
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1260
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1309
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:1354
+msgid "required"
+msgstr ""
+
+#: include/sysbasics-avatar-upload.php:285
+msgid "Restore Default"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:682
+msgid ""
+"Restoring Default fields will undo all your Changes. Are you sure you want "
+"to do this ?"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:300
+msgid "Romanian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:950
+msgid "Rule Type"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:303
+msgid "Russian"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:144
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:420
+msgid "Saturday"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:849
+msgid "Save Changes"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:69
+msgid "Save changes"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:708
+msgid "Search and Select "
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:704
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:877
+msgid "Select"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:321
+msgid "Serbian (Srpski)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:318
+msgid "Serbian Cyrillic (Српски)"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:245
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:753
+msgid "Settings"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-address.php:20
+#: elementor-addon/widgets/templates/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:706
+msgid "Shipping field "
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:552
+msgid "Shipping Fields"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:849
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:478
+msgid "Shipping Method"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:703
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1136
+msgid "shipping_field_"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:821
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:718
+msgid "Show"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1626
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1645
+msgid "show"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1405
+msgid "Show in User Admin UI Column"
+msgstr ""
+
+#: include/admin/forms/options_form.php:45
+msgid "Show My Account widget on navigation menu"
+msgstr ""
+
+#: include/admin/forms/options_form.php:101
+msgid "Show widget only for logged in"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:210
+msgid "Simplified Chinese"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:339
+msgid "Simplified Chinese (简体中文)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:309
+msgid "Slovenčina"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:312
+msgid "Slovenščina"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:228
+msgid "Spanish"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1690
+msgid "state"
+msgstr ""
+
+#: phppoet-checkout-fields/include/add_order_meta_fields_class.php:68
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1015
+msgid "State / County"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:125
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:364
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:402
+msgid "Sunday"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:270
+msgid "Support"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:324
+msgid "Svenska"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:306
+msgid "Swedish"
+msgstr ""
+
+#. Author of the plugin
+msgid "SysBasics"
+msgstr ""
+
+#. Name of the plugin
+msgid "SysBasics Customize My Account for WooCommerce"
+msgstr ""
+
+#: include/admin/menuitem.php:9
+msgid "SysBasics My Account Navigation"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:698
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1468
+msgid "Text"
+msgstr ""
+
+#: include/wcmamtx_frontend_customizer.php:175
+msgid "Text Color"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:716
+msgid "Textarea"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:327
+msgid "Thai"
+msgstr ""
+
+#: elementor-addon/widgets/templates/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: include/sysbasics-avatar-upload.php:186
+msgid "There was an error uploading the avatar:"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1666
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1680
+msgid "This feature is available in pro version only"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:138
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:414
+msgid "Thursday"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:767
+msgid "TimePicker"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:165
+msgid "Timepicker Interval"
+msgstr ""
+
+#: phppoet-checkout-fields/include/manage_extrafield_class.php:654
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:380
+msgid "to"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1276
+msgid "Today plus"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:600
+msgid "Total Spent"
+msgstr ""
+
+#: phppoet-checkout-fields/include/add_order_meta_fields_class.php:63
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1010
+msgid "Town / City"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:342
+msgid "Traditional Chinese (繁體中文)"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:131
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:408
+msgid "Tuesday"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:330
+msgid "Turkish"
+msgstr ""
+
+#: include/admin/forms/options_form.php:128
+msgid "Turn it on if you face styling issues on your frontend"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:333
+msgid "Ukrainian"
+msgstr ""
+
+#: include/sysbasics-avatar-upload.php:289
+msgid "Update Avatar"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:250
+msgid "Upgrade to premium version"
+msgstr ""
+
+#: include/admin/forms/options_form.php:182
+msgid "Use Custom elementor template for My Account Page"
+msgstr ""
+
+#: include/admin/forms/order_form.php:120
+#: include/admin/forms/settings_form.php:123
+msgid "Use Selected Icon"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1427
+msgid "Use space key or comma to separate class"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:450
+msgid "User"
+msgstr ""
+
+#: phppoet-checkout-fields/include/pcmfe_core_functions.php:574
+msgid "User Role"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:79
+msgid "Username"
+msgstr ""
+
+#: elementor-addon/widgets/templates/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1687
+msgid "Validate"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1467
+msgid "Value"
+msgstr ""
+
+#: include/admin/forms/options_form.php:117
+msgid "Vertical Left"
+msgstr ""
+
+#: include/admin/forms/options_form.php:118
+msgid "Vertical Right"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:336
+msgid "Vietnamese"
+msgstr ""
+
+#: include/admin/forms/options_form.php:232
+#: include/admin/forms/options_form.php:327
+msgid "View on frontend"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1595
+msgid "Visibility"
+msgstr ""
+
+#: include/admin/forms/options_form.php:349
+msgid ""
+"We highly recommend you to use elementor page builder along with our plugin"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:135
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:411
+msgid "Wednesday"
+msgstr ""
+
+#: include/admin/forms/options_form.php:76
+msgid "Widget text (logged in)"
+msgstr ""
+
+#: include/admin/forms/options_form.php:89
+msgid "Widget text (logged out)"
+msgstr ""
+
+#: customize-my-account-for-woocommerce.php:121
+msgid "WooCommerce"
+msgstr ""
+
+#: include/admin/forms/avatar_form.php:18
+#: include/admin/forms/avatar_form.php:26
+#: include/admin/forms/avatar_form.php:44
+#: include/admin/forms/options_form.php:48
+#: include/admin/forms/options_form.php:104
+#: include/admin/forms/options_form.php:127
+#: include/admin/forms/options_form.php:171
+#: include/admin/forms/options_form.php:185
+#: include/admin/forms/options_form.php:245
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1357
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1367
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1374
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1407
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:43
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:53
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:63
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:73
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:83
+msgid "Yes"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:686
+msgid ""
+"You can not restore fields in plugin demo.Of course this will work on your "
+"site."
+msgstr ""
+
+#: elementor-addon/widgets/templates/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: include/admin/forms/wizard_form.php:50
+msgid ""
+"Your chosen Endpoints/links you can show on My Account menu widget, you can "
+"simply inject widget into your any menu location your theme supports."
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/syscmafwpl_admin_settings.php:1398
+msgid "{edit_account_link} - your edit account page link"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:213
+msgid "Čeština"
+msgstr ""
+
+#: phppoet-checkout-fields/include/admin/forms/syscmafwpl_admin_extra_fields_form.php:222
+msgid "Ελληνικά"
+msgstr ""
